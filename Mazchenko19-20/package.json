@@ -1,0 +1,28 @@
+{
+  "name": "rrr",
+  "version": "1.0.1",
+  "description": "first gulp project",
+  "author": "stranger",
+  "license": "MIT",
+  "main": "main.js",
+  "dependencies": {
+    "concat": "0.0.1-security",
+    "cssmin": "^0.4.3",
+    "gulp": "^3.9.0",
+    "imagemin": "^5.1.1",
+    "imagemin-pngquant": "^5.0.0",
+    "sass": "^0.5.0",
+    "uglify": "^0.1.5",
+    "watch": "^0.18.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-imagemin": "^3.0.1",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^2.3.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-uglify": "^1.5.3",
+    "gulp-watch": "^4.3.5"
+  }
+}
